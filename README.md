@@ -18,9 +18,13 @@ Características🛜🛜
 •	Diseño Responsivo: El sitio es compatible con dispositivos móviles y se ajusta automáticamente a diferentes tamaños de pantalla.
 
 Tecnologías Utilizadas 🌎🌎
+
 •	HTML5
+
 •	CSS3 (con Flexbox y Grid para el diseño)
+
 •	JavaScript (para interacciones dinámicas)
+
 •	Bootstrap (para el diseño responsivo)
 
 Instalación 🛠️🛠️
