@@ -28,6 +28,7 @@ Tecnologías Utilizadas 🌎🌎
 •	Bootstrap (para el diseño responsivo)
 
 Instalación 🛠️🛠️
+
 Para ver este proyecto en tu navegador, simplemente clona el repositorio y abre el archivo index.html en tu navegador.
 
 
